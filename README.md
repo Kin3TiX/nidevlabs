@@ -32,3 +32,8 @@ To remove this example from the installed application, delete the following file
 * ProgrammaticControl.exe
 * ProgrammaticControl.pdb
 * disable_cache.txt
+
+
+######
+This is a test
+
